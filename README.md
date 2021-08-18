@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me:
 - Currently learning Python,c.
-- Making some Telegram Bots & other Stupid Tools😝.
-    - Dis makes me Happy 🤗
+- Making some Telegram Bots & other Stoopid Tools😝.
+    - This makes me Happy 🤗
 - Busy Student 😆
 - Speaking Languages:
     - Malayalam
