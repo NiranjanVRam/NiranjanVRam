@@ -20,13 +20,13 @@ You can click the Preview link to take a look at your changes.
     - Malayalam
     - English
     - Hindi
-- [More on Telegram](https://t.me/liqwid_x)
+- [Find Me on Telegram](https://t.me/liqwid_x)
 
 ### Follow on:
 [![LiqWid](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 
 ### Support:
-<a href="https://t.me/fhhelperbot"><img src="https://img.shields.io/badge/FH%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/fhsupportgrp"><img src="https://img.shields.io/badge/FH%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Telegram Channel:
 <a href="https://t.me/fileshomeofficial"><img src="https://img.shields.io/badge/Files%20Home%20Official-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
