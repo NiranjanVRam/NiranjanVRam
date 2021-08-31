@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm LiqWid😎</h1>
 
 ## About Me:
-- Currently learning Python,c.
+- Currently learning Python,C.
 - Making some Telegram Bots & other Stoopid Tools😝.
     - This makes me Happy 🤗
 - Busy Student 😆
 - Speaking Languages:
-    - Malayalam
     - English
+    - Malayalam
     - Hindi
 - [Find Me on Telegram](https://t.me/liqwid_x)
 
