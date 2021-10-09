@@ -95,6 +95,9 @@
     </a>
 </details>
 
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## 🎶 Now Playing
 <a href="https://open.spotify.com/playlist/6PgxONm2i2kxpmRsIxCsAd?si=7df8db94f65c4e99">
     <p align="left">
