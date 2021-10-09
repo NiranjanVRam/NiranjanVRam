@@ -62,18 +62,45 @@
 
 <a href="https://www.linkedin.com/in/niranjan-v-ram-a260451b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/NiranjanVRam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/NiranjanVRam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://telegram.dog/liqwid_x"><img src="https://img.shields.io/badge/Join%20Me-Telegram-blue.svg?logo=telegram"></img></a>&nbsp;&nbsp;
 
-### Follow on:
-[![LiqWid](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+<details>
+  <summary><b>:standing_man: &nbsp;Connect with me</b></summary>
+  <br/>
+<p align="left">
+    <a href="https://t.me/liqwid_x">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
+    </a>
+    <a href="https://facebook.com/niranjan.vram/">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+    </a>
+    <a href="https://instagram.com/niranjanvram/">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+    </a>
+    <a href="https://twitter.com/NiranjanVRam">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+    </a>
+    <a href="mailto:niranjanvram@gmail.com">
+        <img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+    </a>
+    <a href="https://github.com/NiranjanVRam">
+        <img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
+    </a>
+</p>
+</details>
 
-### Support:
-<a href="https://t.me/liqwid_x"><img src="https://img.shields.io/badge/Support-Join%20Me%20On%20Telegram-blue.svg?logo=telegram"></a>
+<details>
+  <summary><b>:v: &nbsp;Support me</b></summary>
+  <br/>
+    <a href="https://upier.org/pay?vpa=niranjanvram@oksbi&amount=100">
+        <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e1/20200901100646%21UPI-Logo-vector.svg" />
+    </a>
+</details>
 
-<!---
-### Telegram Channel:
-<a href="https://t.me/fileshomeofficial"><img src="https://img.shields.io/badge/Files%20Home%20Official-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
---->
-
-[Telegram]: https://t.me/liqwid_x
+## 🎶 Now Playing
+<a href="https://open.spotify.com/playlist/6PgxONm2i2kxpmRsIxCsAd?si=7df8db94f65c4e99">
+    <p align="left">
+        <img width="200px" height="100px" src="https://i.pinimg.com/originals/26/82/03/268203daaaec11ae176d5b51016166a3.gif" />
+    </p>
+   </a>
 
 <h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring/Forking Some Of The Repositories!</h3>
 
