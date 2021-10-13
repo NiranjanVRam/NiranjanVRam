@@ -1,9 +1,14 @@
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> HEY, GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&vCenter=true&width=500&lines=Hey+There%2CWelcome+To+My+Github+Profile...;I'm+Niranjan+V+Ram;Find+Me+On+Telegram+As+LiqWid+!!)](https://git.io/typing-svg)
+
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## About Me:
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 - 🌱 Currently learning Python,C.
 - 👀 Making some Telegram Bots & other Stoopid Tools😝.
     - This makes me Happy 🤗
@@ -18,7 +23,7 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-**Tech Toolbox🧰**<br>
+## Tech Toolbox🧰
 
 <p align="left">
 <img src="https://github.com/NiranjanVRam/TechStack/blob/main/C.png" alt="C" width="40" height="40"/>
@@ -48,7 +53,7 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-**Github Profile Views🎯**<br>
+## Github Profile Views🎯
 
 <img width="20%" src="https://profile-counter.glitch.me/{NiranjanVRam}/count.svg" /> 
 
@@ -59,12 +64,12 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanVRam&theme=tokyonight" />
 </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## My Social Profiles
+
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 
 <a href="https://www.linkedin.com/in/niranjan-v-ram-a260451b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/NiranjanVRam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/NiranjanVRam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://telegram.dog/liqwid_x"><img src="https://img.shields.io/badge/Join%20Me-Telegram-blue.svg?logo=telegram"></img></a>&nbsp;&nbsp;
 
@@ -113,6 +118,8 @@
    </a>
 
 <h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring/Forking Some Of The Repositories!</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&center=true&vCenter=true&width=500&lines=Bye..+And+Have+A+Great+Day%F0%9F%98%87)](https://git.io/typing-svg)
 
 <!---
 - 👋 Hi, I’m @NiranjanVRam
