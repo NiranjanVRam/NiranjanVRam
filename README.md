@@ -48,14 +48,20 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-**GitHub Stats🎯**<br>
+**Github Profile Views🎯**<br>
 
 <img width="20%" src="https://profile-counter.glitch.me/{NiranjanVRam}/count.svg" /> 
-    
+
+## 🔔 My Latest Github Metrics
+
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NiranjanVRam&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanVRam&theme=tokyonight" />
 </p>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -93,6 +99,7 @@
     <a href="https://upier.org/pay?vpa=niranjanvram@oksbi&amount=100">
         <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e1/20200901100646%21UPI-Logo-vector.svg" />
     </a>
+    <a href="https://www.buymeacoffee.com/niranjanvram" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </details>
 
 <!--Trap--:)-->
