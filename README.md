@@ -107,6 +107,10 @@
     <a href="https://www.buymeacoffee.com/niranjanvram" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </details>
 
+<p align=left>
+<em>Don't hesitate to get in touch!</em>
+</p>
+
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -121,6 +125,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&center=true&vCenter=true&width=500&lines=Bye..+And+Have+A+Great+Day%F0%9F%98%87)](https://t.me/liqwid_x)
 
+<p align=center>
+<img width="20%" src="https://github.com/NiranjanVRam/NiranjanVRam/blob/main/forthebadge.svg" /> 
+</p>
+    
 <!---
 - 👋 Hi, I’m @NiranjanVRam
 - 👀 I’m interested in developing TG bots...
