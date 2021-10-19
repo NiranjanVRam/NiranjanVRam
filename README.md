@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> HEY, GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&vCenter=true&width=500&lines=Hey+There%2CWelcome+To+My+Github+Profile...;I'm+Niranjan+V+Ram;Find+Me+On+Telegram+As+LiqWid+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&vCenter=true&width=500&lines=Hey+There%2CWelcome+To+My+Github+Profile...;I'm+Niranjan+V+Ram;Find+Me+On+Telegram+As+LiqWid+!!)](https://t.me/liqwid_x)
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -119,7 +119,7 @@
 
 <h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring/Forking Some Of The Repositories!</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&center=true&vCenter=true&width=500&lines=Bye..+And+Have+A+Great+Day%F0%9F%98%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&center=true&vCenter=true&width=500&lines=Bye..+And+Have+A+Great+Day%F0%9F%98%87)](https://t.me/liqwid_x)
 
 <!---
 - 👋 Hi, I’m @NiranjanVRam
