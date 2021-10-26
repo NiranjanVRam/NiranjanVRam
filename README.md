@@ -33,7 +33,7 @@
 ```
 
 <p align=left>
-<em>Hope u got errything!!</em>😜
+<em>Note:This Readme is best when viewed on a pc!! Use `desktop site` option if on a mobile device...</em>😜
 </p>
 
 <!--Trap--:)-->
