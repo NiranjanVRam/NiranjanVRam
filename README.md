@@ -206,7 +206,7 @@
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
 <img src="https://img.shields.io/badge/hotstar-00008B?style=for-the-badge&logo=hotstar&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazonprime&logoColor=white" />
     
 ## 🎮🕹 Games:
 <p align="left">
@@ -255,9 +255,9 @@
 <p align="left">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-<img src="https://img.shields.io/badge/G_Pay-FFFFFF?style=for-the-badge&logo=Google-Pay&logoColor=#white" />
+[<img src="https://img.shields.io/badge/G_Pay-FFFFFF?style=for-the-badge&logo=Google-Pay&logoColor=#white" />](https://upier.org/pay?vpa=niranjanvram@oksbi&amount=100)
 
-[![PMs Welcome](https://img.shields.io/badge/PMs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/NiranjanVRam) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/NiranjanVRam)
+[<img src="https://img.shields.io/badge/PMs-welcome-brightgreen.svg?style=flat&logo=github" />](https://github.com/NiranjanVRam) [<img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green" />](https://github.com/NiranjanVRam)
 <!---
 |      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  |
 |-------------|-------------------|---|---|---|---|
