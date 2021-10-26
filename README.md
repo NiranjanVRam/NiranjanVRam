@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🏫 Currently pursuing my Bachelors in Computer Science from [NSSCE](https://nssce.ac.in/)
-- 🌱 Ongoing learning about Python,C.
+- 🌱 Ongoing learning - Python,C.
 - 👀 Making some Telegram Bots & other Tools😝.
     - This makes me Happy 🤗
 - Busy Student 😆
