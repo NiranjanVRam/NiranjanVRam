@@ -255,7 +255,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-[<img src="https://img.shields.io/badge/G_Pay-FFFFFF?style=for-the-badge&logo=Google-Pay&logoColor=#white" />](https://upier.org/pay?vpa=niranjanvram@oksbi&amount=100)
+<img src="https://img.shields.io/badge/G_Pay-FFFFFF?style=for-the-badge&logo=Google-Pay&logoColor=#white" />
 
 [<img src="https://img.shields.io/badge/PMs-welcome-brightgreen.svg?style=flat&logo=github" />](https://github.com/NiranjanVRam) [<img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green" />](https://github.com/NiranjanVRam)
 <!---
