@@ -8,7 +8,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LiqWid&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20To%20My%20GitHub%20Profile!&descAlignY=51&descAlign=72)
 
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> HEY, GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> HEY, GLAD TO SEE YOU HERE! SCROLL DOWN FOR MORE...😉</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&vCenter=true&width=500&lines=Hey+There%2CWelcome+To+My+Github+Profile...;I'm+Niranjan+V+Ram;Find+Me+On+Telegram+As+LiqWid+!!)](https://t.me/liqwid_x)
 
