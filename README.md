@@ -345,11 +345,11 @@
 </p>
     
 <!---
-- 👋 Hi, I’m @NiranjanVRam
-- 👀 I’m interested in developing TG bots...
+- 👋 Hi, I’m Niranjan V Ram
+- 👀 I’m interested in developing Telegram bots...
 - 🌱 I’m currently learning c,c++,python...
 - 💞️ I’m currently not looking to collaborate on anything...
-- 📫 How to reach me ... Reach Me Through my bot in TG [@fhnopmbot](https://t.me/fhnopmbot) | Join My Channel [Files Home](https://t.me/fileshomeofficial)
+- 📫 How to reach me ... Reach Me Through Telegram👉 [LiqWid](https://t.me/liwid_x)
 --->
 <!---
 NiranjanVRam/NiranjanVRam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
