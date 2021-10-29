@@ -72,7 +72,7 @@
 
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 
-<a href="https://www.linkedin.com/in/niranjan-v-ram-a260451b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/NiranjanVRam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/NiranjanVRam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://telegram.dog/liqwid_x"><img src="https://img.shields.io/badge/Join%20Me-Telegram-blue.svg?logo=telegram"></img></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/niranjan-v-ram-a260451b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/NiranjanVRam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/NiranjanVRam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://telegram.dog/liqwid_x"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"></img></a>&nbsp;&nbsp;
 
 <details>
   <summary><b>:standing_man: &nbsp;Connect with me</b></summary>
