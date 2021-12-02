@@ -280,8 +280,10 @@
 </p>
 
 <p align=left>
-<em>Note: Only based on public repositories and activities!</em>👆
+<em>Note: Only based on public repositories and activities!</em>👆👇
 </p>
+
+<a href="https://github.com/NiranjanVRam"><img alt="Niranjan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NiranjanVRam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
