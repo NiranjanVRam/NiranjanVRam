@@ -338,7 +338,7 @@
 ## 🎶 Now Playing
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/63plm7i0hbbqocnfp161totjn)
 
-<h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring/Forking Some Of The Repositories!</h3>
+<h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring/Forking Any Repositories!</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&center=true&vCenter=true&width=500&lines=Bye..+And+Have+A+Great+Day%F0%9F%98%87)](https://t.me/liqwid_x)
 
