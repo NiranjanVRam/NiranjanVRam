@@ -336,7 +336,8 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🎶 Now Playing
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/63plm7i0hbbqocnfp161totjn)
+<!--[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/63plm7i0hbbqocnfp161totjn)-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=63plm7i0hbbqocnfp161totjn&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=4e62b1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=63plm7i0hbbqocnfp161totjn&redirect=true)
 
 <h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring/Forking Any Repositories!</h3>
 
