@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🏫 Currently pursuing my Bachelors in Computer Science from [NSSCE](https://nssce.ac.in/)
-- 🌱 Ongoing learning - Python,C.
+- 🌱 Ongoing learning - Python,C,Java.
 - 👀 Making some Telegram Bots & other Tools😝.
     - This makes me Happy 🤗
 - Busy Student 😆
@@ -18,7 +18,7 @@
     - English
     - Malayalam
     - Hindi
-- 📫 [Find Me on Telegram](https://t.me/liqwid_x)
+- 📫 [Find Me on LinkedIn](https://www.linkedin.com/in/niranjanvram/)
 - Additionally Travelling 🧳, Music 🎼, Watching📺 Movies/Series🎞️ and Gaming🎮 is what I like😋 the most!
 
 <!--Trap--:)-->
