@@ -298,11 +298,8 @@
   <summary><b>:standing_man: &nbsp;Connect with me</b></summary>
   <br/>
 <p align="left">
-    <a href="https://t.me/liqwid_x">
-        <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
-    </a>
-    <a href="https://facebook.com/niranjan.vram/">
-        <img height="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+    <a href="https://github.com/NiranjanVRam">
+        <img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
     </a>
     <a href="https://instagram.com/niranjanvram/">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
@@ -313,8 +310,11 @@
     <a href="mailto:niranjanvram@gmail.com">
         <img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
     </a>
-    <a href="https://github.com/NiranjanVRam">
-        <img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
+    <a href="https://t.me/liqwid_x">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
+    </a>
+    <a href="https://facebook.com/niranjan.vram/">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
     </a>
 </p>
 </details>
