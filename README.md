@@ -292,7 +292,7 @@
 
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 
-<a href="https://www.linkedin.com/in/niranjan-v-ram-a260451b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/NiranjanVRam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/NiranjanVRam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://telegram.dog/liqwid_x"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"></img></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/niranjanvram/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/NiranjanVRam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/NiranjanVRam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://telegram.dog/liqwid_x"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"></img></a>&nbsp;&nbsp;
 
 <details>
   <summary><b>:standing_man: &nbsp;Connect with me</b></summary>
@@ -310,10 +310,10 @@
     <a href="mailto:niranjanvram@gmail.com">
         <img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
     </a>
-    <a href="https://t.me/liqwid_x">
+    <a href="https://telegram.dog/liqwid_x">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
     </a>
-    <a href="https://facebook.com/niranjan.vram/">
+    <a href="https://facebook.com/niranjanvram/">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
     </a>
 </p>
