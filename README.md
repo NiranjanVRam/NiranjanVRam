@@ -322,7 +322,7 @@
 <details>
   <summary><b>:v: &nbsp;Support me</b></summary>
   <br/>
-    <a href="paypal.me/niranjanvram">
+    <a href="https://paypal.me/niranjanvram">
         <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e1/20200901100646%21UPI-Logo-vector.svg" />
     </a>
     <a href="https://www.buymeacoffee.com/niranjanvram/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
