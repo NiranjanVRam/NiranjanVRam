@@ -65,7 +65,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanVRam&theme=tokyonight" />
 </p>
 
-<a href="https://github.com/NiranjanVRam"><img alt="Niranjan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NiranjanVRam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Niranjan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NiranjanVRam&bg_color=000000&color=39b620&line=1d8b2a&point=04ff00&area=true&hide_border=true)](https://github.com/NiranjanVRam/)
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -80,11 +80,8 @@
   <summary><b>:standing_man: &nbsp;Connect with me</b></summary>
   <br/>
 <p align="left">
-    <a href="https://t.me/liqwid_x">
-        <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
-    </a>
-    <a href="https://facebook.com/niranjan.vram/">
-        <img height="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+    <a href="https://github.com/NiranjanVRam">
+        <img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
     </a>
     <a href="https://instagram.com/niranjanvram/">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
@@ -95,8 +92,11 @@
     <a href="mailto:niranjanvram@gmail.com">
         <img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
     </a>
-    <a href="https://github.com/NiranjanVRam">
-        <img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
+    <a href="https://t.me/liqwid_x">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
+    </a>
+    <a href="https://facebook.com/niranjan.vram/">
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
     </a>
 </p>
 </details>
@@ -104,10 +104,10 @@
 <details>
   <summary><b>:v: &nbsp;Support me</b></summary>
   <br/>
-    <a href="https://upier.org/pay?vpa=niranjanvram@oksbi&amount=100">
+    <a href="paypal.me/niranjanvram">
         <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e1/20200901100646%21UPI-Logo-vector.svg" />
     </a>
-    <a href="https://www.buymeacoffee.com/niranjanvram" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+    <a href="https://www.buymeacoffee.com/niranjanvram/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </details>
 
 <p align=left>
@@ -126,7 +126,7 @@
 
 <h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring/Forking Some Of The Repositories!</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&center=true&vCenter=true&width=500&lines=Bye..+And+Have+A+Great+Day%F0%9F%98%87)](https://t.me/liqwid_x)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&center=true&vCenter=true&width=500&lines=Have+a+great+day%F0%9F%98%87)](https://niranjanvram.gtihub.io/)
 
 <p align=center>
 <img width="20%" src="https://github.com/NiranjanVRam/NiranjanVRam/blob/main/forthebadge.svg" /> 
