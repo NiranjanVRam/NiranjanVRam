@@ -283,7 +283,7 @@
 <em>Note: Only based on public repositories and activities!</em>👆👇
 </p>
 
-<a href="https://github.com/NiranjanVRam"><img alt="Niranjan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NiranjanVRam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Niranjan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NiranjanVRam&bg_color=000000&color=39b620&line=1d8b2a&point=04ff00&area=true&hide_border=true)](https://github.com/NiranjanVRam/)
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -322,10 +322,10 @@
 <details>
   <summary><b>:v: &nbsp;Support me</b></summary>
   <br/>
-    <a href="https://upier.org/pay?vpa=niranjanvram@oksbi&amount=100">
+    <a href="paypal.me/niranjanvram">
         <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e1/20200901100646%21UPI-Logo-vector.svg" />
     </a>
-    <a href="https://www.buymeacoffee.com/niranjanvram" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+    <a href="https://www.buymeacoffee.com/niranjanvram/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </details>
 
 <p align=left>
@@ -339,9 +339,9 @@
 <!--[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/63plm7i0hbbqocnfp161totjn)-->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=63plm7i0hbbqocnfp161totjn&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=4e62b1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=63plm7i0hbbqocnfp161totjn&redirect=true)
 
-<h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring/Forking Any Repositories!</h3>
+<h3 align="center">Show Some &nbsp;❤️&nbsp;</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&center=true&vCenter=true&width=500&lines=Bye..+And+Have+A+Great+Day%F0%9F%98%87)](https://t.me/liqwid_x)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&center=true&vCenter=true&width=500&lines=Have+a+great+day%F0%9F%98%87)](https://niranjanvram.gtihub.io/)
 
 <p align=center>
 <img width="20%" src="https://github.com/NiranjanVRam/NiranjanVRam/blob/main/forthebadge.svg" /> 
