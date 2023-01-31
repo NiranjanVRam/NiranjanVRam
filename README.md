@@ -1,6 +1,6 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> HEY, GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, glad to see you here! Welcome to my github profile!!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&vCenter=true&width=500&lines=Hey+There%2CWelcome+To+My+Github+Profile...;I'm+Niranjan+V+Ram;Find+Me+On+Telegram+As+LiqWid+!!)](https://t.me/liqwid_x)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&vCenter=true&width=500&lines=Hey+there%2CWelcome+to+my+github+profile;I'm+Niranjan+V+Ram;I'm+a+Software/Web+Developer;Scroll+down+to+see+more)](https://niranjanvram.github.io/)
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -43,7 +43,7 @@
 <img src="https://github.com/NiranjanVRam/TechStack/blob/main/Replit.png" alt="Replit" width="40" height="40"/>
 <img src="https://github.com/NiranjanVRam/TechStack/blob/main/Vercel.png" alt="Vercel" width="40" height="40"/>
 
-[![PMs Welcome](https://img.shields.io/badge/PMs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/NiranjanVRam) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/NiranjanVRam)
+[![PMs Welcome](https://img.shields.io/badge/PMs-welcome-brightgreen.svg?style=flat&logo=github)](https://niranjanvram.github.io/) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://niranjanvram.github.io/)
 <!---
 |      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  |
 |-------------|-------------------|---|---|---|---|
