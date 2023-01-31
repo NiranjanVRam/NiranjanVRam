@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, glad to see you here! Welcome to my github profile!!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&vCenter=true&width=500&lines=Hey+there%2CWelcome+to+my+github+profile;I'm+Niranjan+V+Ram;I'm+a+Software/Web+Developer;Scroll+down+to+see+more)](https://niranjanvram.github.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231BF736&vCenter=true&width=500&lines=Hey+there%2C+Welcome+to+my+github+profile;I'm+Niranjan+V+Ram;I'm+a+Software/Web+Developer;Scroll+down+to+see+more)](https://niranjanvram.github.io/)
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
