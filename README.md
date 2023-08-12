@@ -129,7 +129,7 @@ moments and freezing them in time is my way of telling stories.
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
 
 
-##💡 Prototyping Platforms:
+## 💡 Prototyping Platforms:
 <p align="left">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 <!--
