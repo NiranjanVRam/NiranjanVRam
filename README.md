@@ -257,10 +257,6 @@ and freezing them in time is my way of telling stories.
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanVRam&theme=tokyonight" />
 </p>
 
-<p align=left>
-<em>Note: Only based on public repositories and activities!</em>👆👇
-</p>
-
 <!--
 [![Niranjan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NiranjanVRam&bg_color=000000&color=39b620&line=1d8b2a&point=04ff00&area=true&hide_border=true)](https://niranjanvram.github.io/)-->
 
