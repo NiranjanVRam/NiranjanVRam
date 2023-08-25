@@ -6,7 +6,7 @@
 </p>
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#7A67AC&height=300&section=header&text=Niranjan%20V%20Ram&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20To%20My%20GitHub%20Profile!&descAlignY=51&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Niranjan%20V%20Ram&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20To%20My%20GitHub%20Profile!&descAlignY=51&descAlign=72)
 
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, glad to see you here! 😉</h1>
 
