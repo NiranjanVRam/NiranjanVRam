@@ -303,7 +303,7 @@ moments and freezing them in time is my way of telling stories.
         <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e1/20200901100646%21UPI-Logo-vector.svg" />
     </a>
     <a href="https://www.buymeacoffee.com/niranjanvram/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z3XG3FD)
+    <a href="ttps://ko-fi.com/Z8Z3XG3FD" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" width="150" ></a>
 </details>
 
 <p align=left>
