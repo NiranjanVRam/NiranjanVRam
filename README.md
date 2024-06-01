@@ -319,7 +319,7 @@ moments and freezing them in time is my way of telling stories.
 
 ## 🎶 Now Playing
 <!--[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/63plm7i0hbbqocnfp161totjn)-->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=63plm7i0hbbqocnfp161totjn&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=4e62b1&bar_color_cover=true)](https://open.spotify.com/user/63plm7i0hbbqocnfp161totjn&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=63plm7i0hbbqocnfp161totjn&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=4e62b1&bar_color_cover=true)](https://open.spotify.com/user/63plm7i0hbbqocnfp161totjn)
 
 <h3 align="center">Show Some &nbsp;❤️&nbsp;</h3>
 
