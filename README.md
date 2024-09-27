@@ -20,12 +20,12 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ```js
-Hey there! I'm an enthusiastic B.Tech Computer Science student with
+Hey there! I'm an enthusiastic B.Tech Computer Science Graduate with
 a knack for all things tech.
 My skills are primed and ready to make significant contributions
 to projects that focus on developing innovative tools and
 provide valuable services to society.
-I'm particularly passionate about networks, security, web and
+I'm particularly passionate about 3D, web design/development and
 trading — the kind of stuff that keeps me on my toes!
 When I'm not tinkering with code, you'll find me lost in the world
 of music, movies, and series, which fuel my creativity and keep
