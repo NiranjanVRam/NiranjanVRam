@@ -20,6 +20,5 @@ I am a passionate B. Tech Computer Science graduate focused on creating reliable
 
 ## 📫 Let's Connect
 - **LinkedIn:** [Niranjan V Ram](https://linkedin.com/in/niranjanvram)
-- **Instagram:** [@niranjanvram](https://instagram.com/niranjanvram)
 - **Email:** [Have a chat](mailto:niranjanvram@gmail.com)
 - **Other links:** [Click here](https://niranjanvram.github.io/contact)
